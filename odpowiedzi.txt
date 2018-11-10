@@ -1,25 +1,28 @@
-1. S³u¿y do kontrolowanego wprowadzania zmian w projekcie. GIT tworzy historiê dla folderu z nasz¹ aplikacj¹
-   i pozwala zarz¹dzaæ jej wersjami oraz pracowaæ wielu osobom nad jednym projektem.
+1. SÅ‚uÅ¼y do kontrolowanego wprowadzania zmian w projekcie. GIT tworzy historiÄ™ dla folderu z naszÄ… aplikacjÄ…
+   i pozwala zarzÄ…dzaÄ‡ jej wersjami oraz pracowaÄ‡ wielu osobom nad jednym projektem.
 
-2. Polega na tworzeniu ga³êzi.
+2. Polega na tworzeniu gaÅ‚Ä™zi.
 
-3. jest to miejscje uporz¹dkowanego przechowywania dokumentów.
+3. jest to miejscje uporzÄ…dkowanego przechowywania dokumentÃ³w.
 
-4. Wyrórznia sie dwa typy repozytorium: zdalne i lokalne.
+4. WyrÃ³rznia sie dwa typy repozytorium: zdalne i lokalne.
 
-5. Plik .gitignore s³u¿y do ignorowania plików, których nie chcemy widzieæ
+5. Plik .gitignore sÅ‚uÅ¼y do ignorowania plikÃ³w, ktÃ³rych nie chcemy widzieÄ‡
    np. efekty kompilacji programu, dodatkowe biblioteki. 
    Zawiera informacje o pominianych przed dodaniem do stagingu plikach.
-   S¹ to wszystkie pliki, które nie powinny zostaæ udostêpnione dla osób postronnych.
+   SÄ… to wszystkie pliki, ktÃ³re nie powinny zostaÄ‡ udostÄ™pnione dla osÃ³b postronnych.
 
-6. Jest to g³ówny branch w projekcie.
+6. Jest to gÅ‚Ã³wny branch w projekcie.
 
-7. comitownie zmian zostawia trwa³y œlad w lokalnym repozytorium i jest równoznaczne z ich zapisaniem.
+7. comitownie zmian zostawia trwaÅ‚y Å›lad w lokalnym repozytorium i jest rÃ³wnoznaczne z ich zapisaniem.
 
 8. Jest to kopiowanie repozytorium.
 
-9. Jest to scalenie ró¿nych wersji branchy repozytorium. 
+9. Jest to scalenie rÃ³Å¼nych wersji branchy repozytorium. 
 
 10. Pobranie najnowszych zmian z repozytorium zdalnego do lokalnego.
+<<<<<<< HEAD
 
 zmaina czego tam
+=======
+>>>>>>> 2724f4e807131d3510377398f98a9ac7b2e69b97
