@@ -1,0 +1,23 @@
+1. S³u¿y do kontrolowanego wprowadzania zmian w projekcie. GIT tworzy historiê dla folderu z nasz¹ aplikacj¹
+   i pozwala zarz¹dzaæ jej wersjami oraz pracowaæ wielu osobom nad jednym projektem.
+
+2. Polega na tworzeniu ga³êzi.
+
+3. jest to miejscje uporz¹dkowanego przechowywania dokumentów.
+
+4. Wyrórznia sie dwa typy repozytorium: zdalne i lokalne.
+
+5. Plik .gitignore s³u¿y do ignorowania plików, których nie chcemy widzieæ
+   np. efekty kompilacji programu, dodatkowe biblioteki. 
+   Zawiera informacje o pominianych przed dodaniem do stagingu plikach.
+   S¹ to wszystkie pliki, które nie powinny zostaæ udostêpnione dla osób postronnych.
+
+6. Jest to g³ówny branch w projekcie.
+
+7. comitownie zmian zostawia trwa³y œlad w lokalnym repozytorium i jest równoznaczne z ich zapisaniem.
+
+8. Jest to kopiowanie repozytorium.
+
+9. Jest to scalenie ró¿nych wersji branchy repozytorium. 
+
+10. Pobranie najnowszych zmian z repozytorium zdalnego do lokalnego.
