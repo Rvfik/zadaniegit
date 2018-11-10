@@ -21,3 +21,5 @@
 9. Jest to scalenie ró¿nych wersji branchy repozytorium. 
 
 10. Pobranie najnowszych zmian z repozytorium zdalnego do lokalnego.
+
+zmaina czego tam
